@@ -168,7 +168,7 @@ if($_GET['id']) {
 
                 <td><button type="submit">Save Changes</button></td>
 
-                <td><a href="home1.php"><button type="button">Back</button></a></td>
+                <td><a href="home.php"><button type="button">Back</button></a></td>
 
             </tr>
 

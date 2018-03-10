@@ -50,7 +50,7 @@ if($_GET['id']) {
 
     <button type="submit">Yes, delete it!</button>
 
-    <a href="home1.php"><button type="button">No, go back!</button></a>
+    <a href="home.php"><button type="button">No, go back!</button></a>
 
 </form>
 

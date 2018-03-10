@@ -95,7 +95,7 @@
             </tr>  
             <tr>
                 <td><button class="btn-success"type="submit">Insert Table</button></td>
-                <td><a  href="home1.php"><button class="btn-danger" type="button">Back</button></a></td>
+                <td><a  href="home.php"><button class="btn-danger" type="button">Back</button></a></td>
 
             </tr>
 
